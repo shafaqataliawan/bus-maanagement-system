@@ -1,0 +1,85 @@
+.section-bg {
+    background: url(https://www.pu.edu.pk/new/images/1.jpg);
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  section .opsty-colore {
+    background-color: rgba(26, 145, 158, 0.3);
+    height: 100vh;
+  }
+  
+  section .banner-img {
+    padding-top: 250px;
+    margin-left: 70px;
+  }
+  
+  @media (max-width: 768px) {
+    section .banner-img {
+      padding-top: 100px; /* Adjust padding for smaller screens */
+      margin-left: 0; /* Remove left margin for smaller screens */
+    }
+  }
+  
+  section .banner-heading {
+    margin-top: 130px;
+    color: #ffff;
+    font-size: 45px;
+  }
+  
+  @media (max-width: 768px) {
+    section .banner-heading {
+      margin-top: 50px; /* Reduce top margin for smaller screens */
+      font-size: 30px; /* Reduce font size for smaller screens */
+    }
+  }
+  
+  section .banner-paragraph {
+    padding: 15px;
+    color: #fff;
+    font-size: 23px;
+  }
+  
+  @media (max-width: 768px) {
+    section .banner-paragraph {
+      font-size: 18px; /* Reduce font size for smaller screens */
+    }
+  }
+  
+  .banner-btn {
+    padding: 10px 20px;
+    color: white;
+    background-color: #0e737f ;
+    border: #25525e;
+    border-radius: 5px;
+    font-weight: bold;
+  }
+  section span i{
+    color: #fca834;
+    margin-right: 8px;
+  }
+  
+  @media (max-width: 768px) {
+    .banner-btn {
+      margin-right: 0 ; /* Remove right margin for smaller screens */
+    }
+  }
+  
+  .banner-btn:hover  {
+    color: white ;
+    text-decoration: underline;
+    text-decoration-color: #fca834;
+    background-color: #0e737f ;
+  }
+  
+
+
+
+
+
+
+ 
+  

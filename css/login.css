@@ -1,0 +1,24 @@
+.form-check-input.check-btn:checked {
+    background-color: #0e737f;
+    border-color: #0e737f;
+  }
+  
+  .form-check-input.check-btn:focus {
+    border-color: #0e737f;
+    box-shadow: 0 0 0 0.25rem rgba(14, 115, 127, 0.25); /* Optional: Add a shadow */
+  }
+  
+  .loginBtn {
+    background: #0e737f;
+    width: 100%;
+    padding: 10px 0px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+  }
+  .loginBtn:hover {
+    background: #25525e;
+  }
+  .sign-btn {
+    color: #fca834;
+  }

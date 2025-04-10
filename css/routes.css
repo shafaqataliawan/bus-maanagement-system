@@ -1,0 +1,32 @@
+.heading-1 {
+    margin-top: 140px;
+    color: black;
+    font-size: 40px;
+  }
+  .heading-2 {
+    font-size: 45px;
+    font-weight: 600;
+    color: #0e737f;
+  }
+  .heading-para {
+    color: gray;
+    font-size: 15px;
+    text-align: justify;
+  }
+  
+  .allRoutes {
+    border-radius: 30%;
+    height: 150px;
+    width: 150px;
+    margin-bottom: 30px;
+    background-color: white;
+    border: 3px solid #0e737f;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .allRoutes a {
+    color: #0e737f;
+    text-decoration: none;
+  }
+  

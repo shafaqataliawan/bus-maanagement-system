@@ -1,0 +1,23 @@
+.sop-bg {
+    background-color: #25525e;
+    margin: 50px 10px 0px 10px;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  section .sop-heading {
+    color: #fff;
+    font-size: 25px;
+    font-weight: bold;
+  }
+  section .sop-hr {
+    color: 2px solid white !important;
+  }
+  section .sop-text {
+    color: white;
+    font-size: 16px;
+  }
+  section .transport-text {
+    color: #0e737f;
+    font-size: 28px;
+    font-weight: bold;
+  }

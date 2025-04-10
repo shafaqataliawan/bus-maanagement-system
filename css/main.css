@@ -1,0 +1,72 @@
+/* Navbar background */
+.navBar-Bg {
+    background-color: #25525e;
+  }
+  
+  /* Navbar links */
+  #navbarNav ul li a {
+    color: white;
+  }
+  .navbar li a span i {
+    color: #fca834;
+  }
+  
+  #navbarNav ul li a:hover {
+    text-decoration: underline;
+    text-decoration-color: #fca834;
+  }
+  
+  /* Hamburger icon border and color */
+  .navbar-toggler {
+    border: 2px solid white !important; /* White border around the hamburger button */
+    margin-right: 10px; /* Default right margin */
+  }
+  
+  .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3E%3Cpath stroke='rgba(255, 255, 255, 1)' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E") !important;
+  }
+  
+  /* Adjust right margin for mobile screens */
+  @media (max-width: 768px) {
+    .navbar-toggler {
+      margin-right: 20px; /* Increased right margin for smaller screens */
+    }
+  }
+  
+  /* Fixed navbar position */
+  .fixed-top {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1030; /* Ensures it stays above other content */
+  }
+  
+
+
+  /*....................... Home page Footer ................... */
+  footer p a {
+    text-decoration: none;
+  }
+  footer ul li a i {
+    font-size: 23px;
+  }
+  .footer-bg {
+    background-color: #25525e;
+  }
+  footer .f-para{
+    text-align: justify;
+  }
+  /*.......................... footer2 ..................... */
+  .footer-2 {
+    border-top: 6px solid #25525e;
+    background-color: #fca834;
+    text-align: center;
+    padding: 10px 0;
+    color: white;
+  }
+  .footer-text {
+    color: #0e737f;
+    font-weight: bold;
+  }
+  
+  

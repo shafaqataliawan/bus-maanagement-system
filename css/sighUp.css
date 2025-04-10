@@ -1,0 +1,14 @@
+.sighup-Btn {
+    background: #0e737f;
+    width: 100%;
+    padding: 10px 0px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+  }
+  .sighup-Btn:hover {
+    background: #25525e;
+  }
+  .logIn-btn {
+    color: #fca834;
+  }
